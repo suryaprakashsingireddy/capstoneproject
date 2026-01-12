@@ -1,3 +1,4 @@
+<img width="1920" height="1008" alt="Screenshot 2026-01-12 105649" src="https://github.com/user-attachments/assets/8e0a04bb-dd64-49d9-987b-87ab418a0f41" />
 Architecture Overview
 
 The CI/CD system is designed around a containerized two-tier web application architecture, tightly integrated with an automated CI/CD pipeline that manages build, test, security scanning, and deployment processes.
